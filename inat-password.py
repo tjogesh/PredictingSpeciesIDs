@@ -1,10 +1,10 @@
 import requests
 
 site = "https://www.inaturalist.org"
-app_id = 'YOUR APP ID'
-app_secret = 'YOUR APP SECRET'
-username = 'YOUR USERNAME'
-password = 'YOUR PASSWORD'
+app_id = '5951a7fb08e97a1cb33f59362fd71aad49aa0dcc294f19e59729039103c1d3f6'
+app_secret = '75cf928d7d1c468abb9f800c754658e4feb729c486388731d3b2f6ecae230533'
+username = 'taniajogesh'
+password = 'i<3J0hnny'
 
 # Send a POST request to /oauth/token with the username and password
 payload = {
